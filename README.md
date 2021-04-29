@@ -6,8 +6,4 @@ Just run the Helmet_Detection_YOLOV3.py file.
 
 Download these files
 
-Model https://drive.google.com/file/d/1eSA8XVuzCe9Ka63v-HEWx7Hxo8z_cpaF/view?usp=sharing
-
-cfg file https://drive.google.com/file/d/1eSA8XVuzCe9Ka63v-HEWx7Hxo8z_cpaF/view?usp=sharing
-
-weights file https://drive.google.com/file/d/1eSA8XVuzCe9Ka63v-HEWx7Hxo8z_cpaF/view?usp=sharing
+weights file https://drive.google.com/file/d/1hBaRYRhMn8K_dSKNZOEVRjxNXzsg_eYd/view?usp=sharing
